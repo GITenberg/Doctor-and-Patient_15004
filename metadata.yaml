@@ -1,0 +1,35 @@
+_repo: Doctor-and-Patient_15004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Weir
+    - Mitchell, Silas Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine'
+- !lcsh 'Physician and patient'
+tableOfContents: Introductory -- The physician -- Convalescence -- Pain and the opium
+  habit -- The moral management of sick or invalid children -- Nervousness and its
+  influence on character -- Out-door and camp-life for women.
+title: Doctor and Patient
+url: http://www.gutenberg.org/ebooks/15004
